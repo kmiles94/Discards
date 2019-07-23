@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "Discard_Locations",
+"features": [
+{ "type": "Feature", "properties": { "LOCATION": "Licton_Springs_Park", "LAT": 47.69854, "LONG": -122.338559, "24_HR": "N" }, "geometry": { "type": "Point", "coordinates": [ -122.3385591, 47.6985401 ] } },
+{ "type": "Feature", "properties": { "LOCATION": "Westcrest_Park", "LAT": 47.522373, "LONG": -122.34343, "24_HR": "N" }, "geometry": { "type": "Point", "coordinates": [ -122.3434297, 47.5223725 ] } },
+{ "type": "Feature", "properties": { "LOCATION": "DR_Jose_Rizal_Park", "LAT": 47.592202, "LONG": -122.317496, "24_HR": "N" }, "geometry": { "type": "Point", "coordinates": [ -122.3174963, 47.5922022 ] } },
+{ "type": "Feature", "properties": { "LOCATION": "Fremont_Canal_Park", "LAT": 47.651663, "LONG": -122.357335, "24_HR": "Y" }, "geometry": { "type": "Point", "coordinates": [ -122.3573353, 47.6516632 ] } },
+{ "type": "Feature", "properties": { "LOCATION": "Freeway_Park", "LAT": 47.609324, "LONG": -122.330807, "24_HR": "Y" }, "geometry": { "type": "Point", "coordinates": [ -122.3308069, 47.6093239 ] } },
+{ "type": "Feature", "properties": { "LOCATION": "Intersection_Airport_Way_S", "LAT": 47.586405, "LONG": -122.321403, "24_HR": "Y" }, "geometry": { "type": "Point", "coordinates": [ -122.3214026, 47.5864049 ] } },
+{ "type": "Feature", "properties": { "LOCATION": "Intersection_27TH_AVE_S", "LAT": 47.575566, "LONG": -122.299059, "24_HR": "Y" }, "geometry": { "type": "Point", "coordinates": [ -122.2990592, 47.5755663 ] } },
+{ "type": "Feature", "properties": { "LOCATION": "Mineral_Springs_Park", "LAT": 47.7056, "LONG": -122.336654, "24_HR": "Y" }, "geometry": { "type": "Point", "coordinates": [ -122.3366544, 47.7056004 ] } },
+{ "type": "Feature", "properties": { "LOCATION": "Roxhill_Park", "LAT": 47.517417, "LONG": -122.369209, "24_HR": "Y" }, "geometry": { "type": "Point", "coordinates": [ -122.3692089, 47.5174169 ] } }
+]
+}
