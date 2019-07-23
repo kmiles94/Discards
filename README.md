@@ -1,0 +1,2 @@
+# Discards
+Discard GeoJSON
